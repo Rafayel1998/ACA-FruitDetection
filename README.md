@@ -13,7 +13,7 @@ conda env create
 **Activate the environment by running:**
 
 ```
-conda activate fruits
+conda activate fruit_detection
 ```
 
 **Download the dataset from [here](https://github.com/fruits-360/fruits-360-original-size#).**
